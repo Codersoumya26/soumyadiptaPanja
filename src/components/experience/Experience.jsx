@@ -14,38 +14,52 @@ const Experience = () => {
           <div className='experience_content'>
             <article className='experience_details'>
               <BsPatchCheckFill />
-              <h4>HTML</h4>
-              <small className='text-light'> Experienced </small>
+              <div>
+                <h4>HTML</h4>
+                <small className='text-light'> Experienced </small>
+              </div>
             </article>
             <article className='experience_details'>
               <BsPatchCheckFill />
-              <h4>CSS</h4>
-              <small className='text-light'> Intermediate </small>
+              <div>
+                <h4>CSS</h4>
+                <small className='text-light'> Intermediate </small>
+              </div>
             </article>
             <article className='experience_details'>
               <BsPatchCheckFill />
-              <h4>Javascript</h4>
-              <small className='text-light'> Experienced </small>
+              <div>
+                <h4>Javascript</h4>
+                <small className='text-light'> Experienced </small>
+              </div>
             </article>
             <article className='experience_details'>
               <BsPatchCheckFill />
-              <h4>Bootstrap</h4>
-              <small className='text-light'> Experienced </small>
+              <div>
+                <h4>Bootstrap</h4>
+                <small className='text-light'> Experienced </small>
+              </div>
             </article>
             <article className='experience_details'>
               <BsPatchCheckFill />
-              <h4>Tailwind</h4>
-              <small className='text-light'> Experienced </small>
+              <div>
+                <h4>Tailwind</h4>
+                <small className='text-light'> Experienced </small>
+              </div>
             </article>
             <article className='experience_details'>
               <BsPatchCheckFill />
-              <h4>VueJs</h4>
-              <small className='text-light'> Experienced </small>
+              <div>
+                <h4>VueJs</h4>
+                <small className='text-light'> Experienced </small>
+              </div>
             </article>
             <article className='experience_details'>
               <BsPatchCheckFill />
-              <h4>React</h4>
-              <small className='text-light'> Intermediate </small>
+              <div>
+                <h4>React</h4>
+                <small className='text-light'> Intermediate </small>
+              </div>
             </article>
           </div>
         </div>
@@ -54,33 +68,45 @@ const Experience = () => {
         <div className='experience_content'>
             <article className='experience_details'>
               <BsPatchCheckFill />
-              <h4>PHP</h4>
-              <small className='text-light'> Experienced </small>
+              <div>
+                <h4>PHP</h4>
+                <small className='text-light'> Experienced </small>
+              </div>
             </article>
             <article className='experience_details'>
               <BsPatchCheckFill />
-              <h4>Laravel</h4>
-              <small className='text-light'> Experienced </small>
+              <div>
+                <h4>Laravel</h4>
+                <small className='text-light'> Experienced </small>
+              </div>
             </article>
             <article className='experience_details'>
               <BsPatchCheckFill />
-              <h4>Java</h4>
-              <small className='text-light'> Experienced </small>
+              <div>
+                <h4>Java</h4>
+                <small className='text-light'> Experienced </small>
+              </div>
             </article>
             <article className='experience_details'>
               <BsPatchCheckFill />
-              <h4>Python</h4>
-              <small className='text-light'> Intermediate </small>
+              <div>
+                <h4>Python</h4>
+                <small className='text-light'> Intermediate </small>
+              </div>
             </article>
             <article className='experience_details'>
               <BsPatchCheckFill />
-              <h4>FastAPI</h4>
-              <small className='text-light'> Intermediate </small>
+              <div>
+                <h4>FastAPI</h4>
+                <small className='text-light'> Intermediate </small>
+              </div>
             </article>
             <article className='experience_details'>
               <BsPatchCheckFill />
-              <h4>MySQL</h4>
-              <small className='text-light'> Experienced </small>
+              <div>
+                <h4>MySQL</h4>
+                <small className='text-light'> Experienced </small>
+              </div>
             </article>
           </div>
         </div>
