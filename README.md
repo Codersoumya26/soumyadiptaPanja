@@ -5,3 +5,8 @@ My personal portfolio website built using React.js. The website showcases my ski
 ```bash
 npx create-react-app portfolio
 ```
+
+* To install React Icons
+```bash
+npm install react-icons --save
+```
